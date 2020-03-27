@@ -10,4 +10,23 @@
  * pacotes de icones para React
  * npm install react-icons
  *
+ *
+ *
+ * usando Jest pra test
+ *
+ *
+ * *** BACKEND ***
+ * Hospedar no HEROKU
+ *
+ * Digital Ocean -> hospedagem comercial médio
+ * 
+ * 
+ * *** FRONTEND ***
+ * 
+ * netlify 
+ * 
+ * 
+ * 
+ * autenticacao JWT
+ * styled components
  */
